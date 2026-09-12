@@ -38,7 +38,7 @@ $ cat system.md
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/debian/A81D33" alt="Debian 13" height="44" />
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="Arch Linux" height="44" />
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/niri.svg" alt="Niri" height="44" />
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/ftnpXT_jgNQAAAAj/jolyne-jolyne-cujoh.gif" alt="jolyne cujoh" width="280" />
+<img src="https://media.tenor.com/ftnpXT_jgNQAAAAj/jolyne-jolyne-cujoh.gif" alt="jolyne cujoh" width="140" />
 
 </div>
 
@@ -26,11 +26,11 @@ minecraft content creator · mod developer · **coo, edonme studios**
 $ cat about.md
 ```
 
-oiê :3 eu sou o pxdritz!
+hii :3 i'm pxdritz!
 
-- criando mods, datapacks e ferramentas para minecraft na edonme studios ✦
-- fazendo vídeos de gameplay, tutoriais e dev showcases no youtube ♡
-- atualmente construindo coisinhas para fabric 1.21.x — sempre mexendo em alguma ideia nova hehe
+- creating mods, datapacks, and tools for minecraft at edonme studios ✦
+- making gameplay videos, tutorials, and dev showcases on youtube ♡
+- currently building little things for fabric 1.21.x — always tinkering with some new idea hehe
 
 <br>
 
@@ -53,7 +53,7 @@ $ cat tools.md
 
 <div align="center">
 
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Zed_Editor_Logo.png/960px-Zed_Editor_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250526024" alt="zed" height="44" />
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Zed_Editor_Logo.png/960px-Zed_Editor_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250526024[...]
 <img src="https://cdn.simpleicons.org/git/F05032" alt="git" height="44" />
 <img src="https://www.svgrepo.com/show/361182/github-inverted.svg" alt="github" height="44" />
 <img src="https://godotengine.org/assets/press/icon_monochrome_light.png" alt="godot" height="44" />

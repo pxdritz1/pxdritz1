@@ -16,7 +16,7 @@
 
 <div align="center">
 
-minecraft content creator · mod developer · **coo, edonme studios** ♡
+minecraft content creator · mod developer · **coo, edonme studios** 
 
 </div>
 
@@ -87,7 +87,7 @@ $ cat focus.md
 
 <div align="center">
 
-**full stack development** · **game development** · **minecraft modding** ✨
+**full stack development** · **game development** · **minecraft modding** 
 
 </div>
 
@@ -116,6 +116,6 @@ $ cat links.md
 
 <br>
 
-feito com carinho, café e muitos bloquinhos :3
+moved by tea, coding, and creativity :3
 
 </div>

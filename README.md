@@ -18,7 +18,7 @@ minecraft modder · software engineer · **coo, edonme studios**
 $ cat about.md
 ```
 
-hii :3 i'm pxdritz!
+hii :3 i'm chloe!! (px)
 
 - creating mods, datapacks, and tools for minecraft at edonme studios ✦
 - also creating softwares, and another projects on multiples langs

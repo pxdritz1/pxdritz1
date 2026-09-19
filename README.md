@@ -21,7 +21,7 @@ $ cat about.md
 hii :3 i'm pxdritz!
 
 - creating mods, datapacks, and tools for minecraft at edonme studios ✦
-- also creating softwares, and another projects on multiples languages 
+- also creating softwares, and another projects on multiples langs
 - making gameplay videos, tutorials, and dev showcases on youtube ♡
 - currently building little things for fabric — always tinkering with some new idea :p
 

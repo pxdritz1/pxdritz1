@@ -116,6 +116,6 @@ $ cat links.md
 
 <br>
 
-moved by tea, coding, and creativity :3
+moved by tea and creativity :3
 
 </div>

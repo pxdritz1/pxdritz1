@@ -22,7 +22,7 @@ hii :3 i'm chloe!! (px)
 
 - creating mods, datapacks, and tools for minecraft at edonme studios ✦
 - also creating softwares, and another projects on multiples langs
-- making gameplay videos, tutorials, and dev showcases on youtube ♡
+- professional yapper and nerd :D 
 - currently building little things for fabric — always tinkering with some new idea :p
 
 </div>
@@ -95,10 +95,9 @@ $ cat links.md
 
 | platform | url |
 |:--:|:--:|
-| youtube | [youtube.com/@pxdritz1](https://youtube.com/@pxdritz1) |
 | website | [pxdritz.github.io](https://px.github.io) |
 | modrinth | [modrinth.com/user/pxotitas](https://modrinth.com/user/pxotitas) |
-| discord (pessoal server) | [discord.gg/rX8jE45kgP](https://discord.gg/rX8jE45kgP) |
+| discord (my nickname is pxotitas)  | [discord.gg/rX8jE45kgP](https://discord.gg/rX8jE45kgP) |
 | discord (servidor dos programadores, a brazilian server)| [discord.gg/programador](https://discord.gg/programador) |
 
 </div>

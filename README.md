@@ -8,7 +8,7 @@
 
 <br>
 
-minecraft content creator · mod developer · **coo, edonme studios**
+minecraft modder · software engineer · **coo, edonme studios**
 
 <br>
 
@@ -21,8 +21,9 @@ $ cat about.md
 hii :3 i'm pxdritz!
 
 - creating mods, datapacks, and tools for minecraft at edonme studios ✦
+- also creating softwares, and another projects on multiples languages 
 - making gameplay videos, tutorials, and dev showcases on youtube ♡
-- currently building little things for fabric 1.21.x — always tinkering with some new idea hehe
+- currently building little things for fabric — always tinkering with some new idea :p
 
 </div>
 
@@ -95,9 +96,10 @@ $ cat links.md
 | platform | url |
 |:--:|:--:|
 | youtube | [youtube.com/@pxdritz1](https://youtube.com/@pxdritz1) |
-| website | [pxdritz.github.io](https://pxdritz.github.io) |
+| website | [pxdritz.github.io](https://px.github.io) |
 | modrinth | [modrinth.com/user/pxotitas](https://modrinth.com/user/pxotitas) |
-| discord | [discord.gg/rX8jE45kgP](https://discord.gg/rX8jE45kgP) |
+| discord (pessoal server) | [discord.gg/rX8jE45kgP](https://discord.gg/rX8jE45kgP) |
+| discord (servidor dos programadores, a brazilian server)| [discord.gg/programador](https://discord.gg/programador) |
 
 </div>
 

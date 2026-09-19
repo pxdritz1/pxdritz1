@@ -51,7 +51,7 @@ $ cat tools.md
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Zed_Editor_Logo.png" alt="Zed" height="44" />
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Zed_Editor_Logo.png/960px-Zed_Editor_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250526024416" alt="Zed" height="44" />
 <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="44" />
 <img src="https://www.svgrepo.com/show/361182/github-inverted.svg" alt="GitHub" height="44" />
 <img src="https://godotengine.org/assets/press/icon_monochrome_light.png" alt="Godot" height="44" />

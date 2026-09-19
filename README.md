@@ -51,7 +51,7 @@ $ cat tools.md
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/vscodium/2F80ED" alt="VSCodium" height="44" />
+<img src="https://cdn.simpleicons.org/zed/2F80ED" alt="Zed" height="44" />
 <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="44" />
 <img src="https://www.svgrepo.com/show/361182/github-inverted.svg" alt="GitHub" height="44" />
 <img src="https://godotengine.org/assets/press/icon_monochrome_light.png" alt="Godot" height="44" />

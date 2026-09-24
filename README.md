@@ -24,7 +24,7 @@ hii :3 i'm chloe!! (px)
 - also creating softwares, and another projects on multiples langs
 - professional yapper and nerd :D 
 - currently building little things for fabric — always tinkering with some new idea :p
-
+- B2 english according to Cambridge English
 </div>
 
 <br>

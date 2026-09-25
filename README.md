@@ -104,8 +104,6 @@ $ cat links.md
 
 <br>
 
-![snake gif](https://github.com/pxdritz1/pxdritz1/blob/output/github-contribution-grid-snake.svg)
-
 <img src="https://komarev.com/ghpvc/?username=pxdritz1&color=facb48&style=flat-square&label=profile+views" alt="profile views" />
 
 <br>

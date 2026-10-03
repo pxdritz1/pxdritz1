@@ -104,7 +104,7 @@ $ cat links.md
 
 <br>
 
-<img src="https://counter.seku.su/cm?name=pxdritz1&theme=r34" alt="profile views" />
+<img src="https://moe-counter.glitch.me/get/@pxdritz1" alt="profile views" />
 
 <br>
 

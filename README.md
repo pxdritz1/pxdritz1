@@ -104,8 +104,6 @@ $ cat links.md
 
 <br>
 
-<img src="https://moe-counter.glitch.me/get/@pxdritz1" alt="profile views" />
-
 <br>
 
 moved by tea and creativity :3

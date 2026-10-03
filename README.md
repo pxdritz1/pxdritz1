@@ -54,7 +54,7 @@ $ cat tools.md
 <img src="https://godotengine.org/assets/press/icon_monochrome_light.png" alt="godot" height="44" />
 <img src="https://avatars.githubusercontent.com/u/21368660?s=280&v=4" alt="libresprite" height="44" />
 <img src="https://cdn.simpleicons.org/krita/3BABFF" alt="krita" height="44" />
-<img src="https://images.seeklogo.com/logo-png/61/2/kimi-logo-png_seeklogo-611650.png" alt="kimi k3" height="44" />
+<img src="https://cdn.simpleicons.org/codex/4F46E5" alt="codex" height="44" />
 <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="figma" height="44" />
 <img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="obsidian" height="44" />
 

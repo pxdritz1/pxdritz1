@@ -104,7 +104,7 @@ $ cat links.md
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=pxdritz1&color=facb48&style=flat-square&label=profile+views" alt="profile views" />
+<img src="https://counter.seku.su/cm?name=pxdritz1&theme=r34" alt="profile views" />
 
 <br>
 

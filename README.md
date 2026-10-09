@@ -36,7 +36,7 @@ $ cat system.md
 ```
 
 <img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="arch linux" height="44" />
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/niri.svg" alt="niri" height="44" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-aUQxo7z_GOtGVcK5nLc_UCBJuE7ahVUzfzpgp6w_g&s=10" alt="niri" height="44" />
 
 </div>
 

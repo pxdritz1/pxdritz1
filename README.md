@@ -98,7 +98,6 @@ $ cat links.md
 | website | [pxdritz1.github.io](https://pxdritz1.github.io) |
 | modrinth | [modrinth.com/user/pxotitas](https://modrinth.com/user/pxotitas) |
 | discord (my nickname is pxotitas)  | [discord.gg/rX8jE45kgP](https://discord.gg/rX8jE45kgP) |
-| discord (servidor dos programadores, a brazilian server)| [discord.gg/programador](https://discord.gg/programador) |
 
 </div>
 

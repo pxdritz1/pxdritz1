@@ -50,7 +50,6 @@ $ cat tools.md
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Zed_Editor_Logo.png/960px-Zed_Editor_Logo.png" alt="zed" height="44" />
 <img src="https://cdn.simpleicons.org/git/F05032" alt="git" height="44" />
-<img src="https://www.svgrepo.com/show/361182/github-inverted.svg" alt="github" height="44" />
 <img src="https://godotengine.org/assets/press/icon_monochrome_light.png" alt="godot" height="44" />
 <img src="https://avatars.githubusercontent.com/u/21368660?s=280&v=4" alt="libresprite" height="44" />
 <img src="https://cdn.simpleicons.org/krita/3BABFF" alt="krita" height="44" />
